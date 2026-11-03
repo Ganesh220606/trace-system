@@ -1,0 +1,6 @@
+{
+  "name": "Cloud Observability & OpenTelemetry Studio",
+  "description": "Interactive telemetry generator, Grafana Cloud Tempo trace explorer, Prometheus metrics dashboard, and OpenTelemetry diagnostic workbench for cloud applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
